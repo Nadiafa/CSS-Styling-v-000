@@ -10,6 +10,6 @@ figcaption {
   font-family: Georgia, "New Times Roman", serif;
 }
 
-a:link {
+a:link, a:visited {
   color: blue;
 }
